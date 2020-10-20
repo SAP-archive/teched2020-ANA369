@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# ANA369 - Common Tools for SQL Data Warehousing and SAP Data Warehouse Cloud
 
 ## Description
 
