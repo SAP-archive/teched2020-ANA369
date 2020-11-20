@@ -18,10 +18,7 @@ Get an overview of the workshop steps in the [ANA369-Overview](exercises/ANA369_
 
 To start the exercises follow the workshop step-by-step guide [ANA369-Exercise](exercises/ANA369_Excercise_V1.pdf).
     
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+Have fun :smiley:
 
 ## How to obtain support
 
