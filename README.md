@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called ANA369 - Common Tools for SQL Data Warehousing and SAP Data Warehouse Cloud.  
+This repository contains the material for the SAP TechEd 2020 session called *ANA369 - Common Tools for SQL Data Warehousing and SAP Data Warehouse Cloud*.  
 
 ## Overview
 
@@ -14,24 +14,10 @@ Google Chrome
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+Get an overview of the workshop steps in the [ANA369-Overview](exercises/ANA369_Overview.pdf) document.
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
+To start the exercises follow the workshop step-by-step guide [ANA369-Exercise](exercises/ANA369_Excercise_V1.pdf).
     
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
 **IMPORTANT**
 
