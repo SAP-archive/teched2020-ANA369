@@ -2,15 +2,15 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2020 session called ANA369 - Common Tools for SQL Data Warehousing and SAP Data Warehouse Cloud.  
 
 ## Overview
 
-This session introduces attendees to...
+This hands-on workshop will give you the opportunity to build a data warehouse scenario with SAP HANA for SQL data warehousing, as well as the SAP Data Warehouse Cloud solution, using the same SQL tool set. You will learn how to create a SAP HANA deployment infrastructure (HDI) container using SAP Web IDE on SAP Cloud Platform and deploy that container in the SAP Data Warehouse Cloud system. In addition, we show you how to create your own space in Data Warehouse Cloud and connect this HDI-Container so it can be used like any other artefact for data modelling.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+Google Chrome
 
 ## Exercises
 
