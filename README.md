@@ -16,7 +16,7 @@ Google Chrome
 
 Get an overview of the workshop steps in the [ANA369-Overview](exercises/ANA369_Overview.pdf) document.
 
-To start the exercises follow the workshop step-by-step guide [ANA369-Exercise](exercises/ANA369_Excercise_V1.pdf).
+To start the exercises follow the workshop step-by-step guide [ANA369-Exercise](exercises/ANA369_Excercise.pdf).
     
 Have fun :smiley:
 
